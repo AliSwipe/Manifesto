@@ -1,0 +1,27 @@
+body {
+  background-color: #171717;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+body::-webkit-scrollbar {
+  width: .25rem;
+}
+
+body::-webkit-scrollbar-track {
+  background: #252626;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #3e3e54;
+}
+
+
+.clip {
+  display: inline-block;
+  width: 60vw;
+  height: 68vh;
+  margin: auto;
+}
+
