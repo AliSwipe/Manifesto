@@ -17,27 +17,58 @@ body {
 .subHeadings {
   color: #EDEDED;
   font-family: 'Lato', sans-serif;
-  font-size: 5rem;
+  font-size: 4rem;
   font-weight: normal;
-  margin: 0 auto 7rem auto;
+  margin: 0rem auto 0rem auto;
   position: relative;
-  top: 0rem;
   text-shadow: 0 0 3px black, 0 2px 0 black, 2px 0 0 black;
 }
 
 .paragraphs {
   color: #EDEDED;
   font-family: 'Lato', sans-serif;
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: normal;
   position: relative;
-    margin: 0 auto 2rem auto;
+  margin: 0 auto 2rem auto;
+  text-indent: 100px;
 }
+
+.paragraphs2 {
+  color: #EDEDED;
+  font-family: 'Lato', sans-serif;
+  font-size: 3rem;
+  font-weight: normal;
+  position: relative;
+  margin: 0 auto 2rem auto;
+  text-align: center;
+}
+
+.paragraphs3 {
+  color: #EDEDED;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.3rem;
+  font-weight: normal;
+  font-style: italic;
+  position: relative;
+  margin: 0 auto 2rem auto;
+  text-align: center;
+}
+
 .top {
   position: relative;
   height: 152px;
   display: flex;
   justify-content: center;
+}
+
+.top2 {
+  position: relative;
+  height: 18rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
 }
 
 .hypeR {
@@ -64,9 +95,15 @@ body {
 }
 
 .sandmanpic {
-  border-radius: 10%;
+  border-radius: 5%;
   width: auto;
   height: 500px;
+  margin-right: 25px;
+}
+
+.log_screenshots {
+  width: auto;
+  height: 130px;
 }
 
 .myButton {
@@ -144,12 +181,13 @@ body {
   justify-content: space-around;
   align-items: center;
   flex-direction: column;
+  margin: 10rem auto 0rem auto;
 }
 
 .manifesto_paragraph {
   position: relative;
-  padding-right: 30rem;
-  padding-left: 30rem;
+  padding-right: 40rem;
+  padding-left: 40rem;
 }
 
 .belowdots{

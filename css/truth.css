@@ -20,7 +20,7 @@ body::-webkit-scrollbar-thumb {
 
 .clip {
   display: inline-block;
-  width: 60vw;
+  width: 35vw;
   height: 68vh;
   margin: auto;
 }
