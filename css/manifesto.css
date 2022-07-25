@@ -17,7 +17,7 @@ body {
 .subHeadings {
   color: #EDEDED;
   font-family: 'Lato', sans-serif;
-  font-size: 3.7rem;
+  font-size: 2.3vw;
   font-weight: normal;
   margin: 0rem auto 0rem auto;
   position: relative;
@@ -27,7 +27,7 @@ body {
 .paragraphs {
   color: #EDEDED;
   font-family: 'Lato', sans-serif;
-  font-size:  1.5rem;
+  font-size:  1.1vw;
   font-weight: normal;
   position: relative;
   margin: 0 auto 2rem auto;
@@ -37,7 +37,7 @@ body {
 .paragraphs2 {
   color: #EDEDED;
   font-family: 'Lato', sans-serif;
-  font-size: 2.7rem;
+  font-size: 1.8vw;
   font-weight: normal;
   position: relative;
   margin: 0 auto 2rem auto;
@@ -47,7 +47,7 @@ body {
 .paragraphs3 {
   color: #808080;
   font-family: 'Lato', sans-serif;
-  font-size: .9rem;
+  font-size: .8vw;
   font-weight: normal;
   font-style: italic;
   position: relative;
@@ -103,7 +103,7 @@ body {
 
 .log_screenshots {
   width: auto;
-  height: 90px;
+  height: 4vw;
 }
 
 .myButton {
@@ -186,8 +186,8 @@ body {
 
 .manifesto_paragraph {
   position: relative;
-  padding-right: 25vw;
-  padding-left: 25vw;
+  padding-right: 27vw;
+  padding-left: 27vw;
 }
 
 .belowdots{
