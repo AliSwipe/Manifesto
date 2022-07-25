@@ -41,7 +41,6 @@ body {
   font-weight: normal;
   position: relative;
   margin: 0 auto 2rem auto;
-  text-align: center;
 }
 
 .paragraphs3 {
@@ -187,7 +186,7 @@ body {
 .manifesto_paragraph {
   position: relative;
   padding-right: 27vw;
-  padding-left: 27vw;
+  padding-left: 27vw  ;
 }
 
 .belowdots{
