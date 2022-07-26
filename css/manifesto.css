@@ -54,6 +54,16 @@ body {
   text-align: center;
 }
 
+.paragraphs4 {
+  color: #3F00FF;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.8vw;
+  font-weight: normal;
+  font-style: italic;
+  position: relative;
+  margin: 0 auto 2rem auto;
+}
+
 .top {
   position: relative;
   height: 152px;
@@ -204,6 +214,7 @@ body {
   flex-wrap: wrap;
   position: relative;
   height: 450px;
+  text-align: center;
 }
 .mediaicon{
   width: 8rem;
