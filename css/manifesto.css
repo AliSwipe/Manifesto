@@ -12,6 +12,7 @@ body {
   position: relative;
   top: 2rem;
   text-shadow: 0 0 3px black, 0 2px 0 black, 2px 0 0 black;
+  text-align: center;
 }
 
 .subHeadings {
